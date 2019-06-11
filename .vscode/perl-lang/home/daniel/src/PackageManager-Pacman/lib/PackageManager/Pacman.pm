@@ -1,1 +1,0 @@
-[{"line":0,"containerName":"","kind":2,"name":"strict"},{"line":1,"containerName":"","name":"warnings","kind":2},{"defintion":1,"name":"PackageManager::Pacman","kind":2,"line":3}]
